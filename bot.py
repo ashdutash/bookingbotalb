@@ -5,10 +5,10 @@ import sqlite3
 from datetime import datetime, timedelta
 
 # Токен вашего бота
-TOKEN = '7600799225:AAHtFTGDdxVun58s6Dht5bxsfLHubAq6QLk'
+TOKEN = 7600799225:AAHtFTGDdxVun58s6Dht5bxsfLHubAq6QLk
 
 # ID аккаунта администратора (замените на ваш)
-ADMIN_CHAT_ID = '422276672'
+ADMIN_CHAT_ID = 422276672
 
 # Имя файла базы данных
 DATABASE_NAME = 'bookings.db'
